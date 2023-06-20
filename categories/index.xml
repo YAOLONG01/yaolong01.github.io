@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - YaoLong&#39;s Site</title>
+        <link>http://yaolong01.github.io/categories/</link>
+        <description>Categories - Category - YaoLong&#39;s Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>yaolong551@163.com (yaolong)</managingEditor>
+            <webMaster>yaolong551@163.com (yaolong)</webMaster><atom:link href="http://yaolong01.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>

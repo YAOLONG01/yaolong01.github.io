@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - YaoLong&#39;s Site</title>
+        <link>http://yaolong01.github.io/posts/</link>
+        <description>All Posts | YaoLong&#39;s Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>yaolong551@163.com (yaolong)</managingEditor>
+            <webMaster>yaolong551@163.com (yaolong)</webMaster><lastBuildDate>Tue, 20 Jun 2023 14:34:52 &#43;0800</lastBuildDate><atom:link href="http://yaolong01.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>http://yaolong01.github.io/posts/my-first-post/</link>
+    <pubDate>Tue, 20 Jun 2023 14:34:52 &#43;0800</pubDate>
+    <author>yaolong</author>
+    <guid>http://yaolong01.github.io/posts/my-first-post/</guid>
+    <description><![CDATA[it&rsquo;s my first hugo post&hellip;]]></description>
+</item>
+</channel>
+</rss>
